@@ -1,0 +1,13 @@
+@mixin regular-text {
+  line-height: 150%;
+  font-size: 16px;
+  font-family: $primary-font-family;
+  font-weight: $regular-font-weight;
+}
+
+@mixin medium-text {
+  line-height: 150%;
+  font-size: 16px;
+  font-family: $primary-font-family;
+  font-weight: $medium-font-weight;
+}
